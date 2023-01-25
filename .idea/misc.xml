@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_rounded.xml" value="0.1805" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1805" />
+        <entry key="app/src/main/res/drawable/ic_launcher.xml" value="0.1265" />
+        <entry key="app/src/main/res/drawable/ic_location_marker_foreground.xml" value="0.1805" />
+        <entry key="app/src/main/res/drawable/ic_mapStack_foreground.xml" value="0.1265" />
+        <entry key="app/src/main/res/drawable/layout_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_top_corners.xml" value="0.3625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/locations.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_mapStack.xml" value="0.1265" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="androidx.room.Insert" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
